@@ -7,7 +7,7 @@ tqdm==4.70.1
 # rationale evaluation (rationale_eval/)
 torch==2.8.0
 transformers==4.57.6
-sentence-transformers==5.1.2
+sentence-transformers==5.6.0
 sacrebleu==2.6.0
 sentencepiece==0.2.2
 protobuf==6.33.6
