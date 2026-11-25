@@ -1,0 +1,10 @@
+{
+  "path/to/inputs.tsv": [
+    "openai/gpt-4o-mini",
+    "meta-llama/llama-3.3-70b-instruct",
+    "qwen/qwen3-32b"
+  ],
+  "path/to/other_inputs.tsv": [
+    "openai/gpt-4o-mini"
+  ]
+}

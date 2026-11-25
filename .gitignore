@@ -1,0 +1,6 @@
+# outputs of the rationale evaluation
+rationale_eval/results/
+__pycache__/
+.DS_Store
+# judge outputs are kept locally, not in the repository
+judge_outputs/*/*.jsonl
