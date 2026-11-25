@@ -2,7 +2,7 @@ datasets==4.5.0
 numpy==2.0.2
 openai==2.48.0
 pandas==2.3.3
-pyarrow==21.0.0
+pyarrow==23.0.1
 tqdm==4.70.1
 # rationale evaluation (rationale_eval/)
 torch==2.8.0
